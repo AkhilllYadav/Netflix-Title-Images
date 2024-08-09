@@ -1,0 +1,29 @@
+.results {
+  list-style: none;
+  padding: 0;
+}
+
+.result-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.result-title {
+  font-size: 3rem;
+  text-align: center;
+  color: aliceblue;
+  margin-bottom: 10px;
+}
+
+.images {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.result-image {
+  max-width: 100px;
+  border-radius: 4px;
+}

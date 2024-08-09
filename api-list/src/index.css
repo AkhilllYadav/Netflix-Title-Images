@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background-color: #fff;
+  box-sizing: border-box; /* Ensure padding and border are included in width */
+}
+
+input {
+  border: none;
+  outline: none;
+}
+
+button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+div {
+  margin: 0; /* Remove default margins to allow full width */
+  padding: 0; /* Remove padding to avoid restricting width */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h3 {
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 0;
+}
+
+.search-container {
+  display: flex;
+  margin: 0 auto; /* Center the search container */
+  padding: 10px;
+  width: 100%;
+  max-width: 100%; /* Ensure the container uses full width */
+  box-sizing: border-box; /* Ensure padding and border are included in width */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-container i {
+  align-self: center;
+  margin-right: 10px;
+}
