@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Deployment
 
-The project has been deployed and is live at [https://title-images-api.vercel.app/]([https://title-images-api.vercel.app/](https://title-images-j6x24vjfs-akhilll-yadavs-projects.vercel.app/)).
+The project has been deployed and is live at [Live Project](https://title-images-j6x24vjfs-akhilll-yadavs-projects.vercel.app/).
 
 ## Learn More
 
